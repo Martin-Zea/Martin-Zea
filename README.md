@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ Sobre mí
 
-Soy un desarrollador Full Stack Junior con experiencia en Angular, TypeScript, Java y Spring Boot. Completé una pasantía como Software Developer en **TechForB**, donde trabajé en aplicaciones web reales en un entorno profesional.
+Soy un desarrollador Full Stack Junior con experiencia en Angular, TypeScript, Java y Spring Boot. Trabajé como Software Developer contractor en **TechForB**, donde desarrollé aplicaciones web en un entorno profesional.
 
 Me especializo en construir aplicaciones completas — frontend responsivo con Angular y backend con Spring Boot y bases de datos relacionales. Aplico IA generativa como herramienta activa en mi flujo de trabajo y la integro directamente en mis proyectos.
 
