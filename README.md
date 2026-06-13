@@ -31,6 +31,8 @@ Busco una posición donde pueda seguir creciendo técnicamente y aportar valor d
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Base de Datos & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,9 +57,9 @@ Aplicación web progresiva (offline-capable) para gestionar rutinas de gimnasio.
 ### 📄 ThesisValidator
 > Herramienta RAG para validación académica de tesis con IA generativa
 
-Arquitectura desacoplada: frontend Angular consumiendo una API REST en Spring Boot con un pipeline RAG que valida documentos de tesis contra criterios académicos usando modelos de lenguaje.
+Arquitectura desacoplada: frontend Angular consumiendo una API REST en Python con un pipeline RAG que valida documentos de tesis contra criterios académicos usando modelos de lenguaje.
 
-**Stack:** Angular · TypeScript · Java · Spring Boot · RAG · LLM
+**Stack:** Angular · TypeScript · Python · FastAPI · RAG · LLM
 
 [![Frontend Demo](https://img.shields.io/badge/Demo-Frontend-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://thesis-validator-tau.vercel.app/)
 [![Backend API](https://img.shields.io/badge/API-Backend-blue?style=flat-square&logo=spring&logoColor=white)](https://rag-system-ovz2.onrender.com/)
